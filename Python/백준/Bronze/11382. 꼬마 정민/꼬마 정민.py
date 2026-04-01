@@ -1,0 +1,7 @@
+n = input().split()
+
+A = int(n[0])
+B = int(n[1])
+C = int(n[2])
+
+print(A+B+C)
